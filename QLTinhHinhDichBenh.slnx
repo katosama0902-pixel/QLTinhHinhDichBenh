@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QLTinhHinh.BLL/QLTinhHinh.BLL.csproj" Id="d133a96c-7510-48a3-a769-c081b11e6786" />
+  <Project Path="QLTinhHinh.DAL/QLTinhHinh.DAL.csproj" Id="1dfd7fb2-bb2c-4c72-bc95-435df1ac9a7c" />
+  <Project Path="QLTinhHinh.GUI/QLTinhHinh.GUI.csproj" Id="c7476078-b8ee-4eec-8741-3ce770b6d184" />
+</Solution>
